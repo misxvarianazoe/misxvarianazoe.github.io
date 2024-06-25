@@ -1428,7 +1428,7 @@ box-shadow: 10px 25px 25px rgba(0,0,0,0.5);
   border-bottom: 2px solid ;
   border-right: 2px solid ;
   border-left: 2px solid ;
-  border-color: #344149;
+  border-color: #fff;
 }
 .mujeres{
 color:#252323;  
@@ -1503,7 +1503,7 @@ margin-left: 5px;
 .btnComoLlegar{
   text-decoration: none;
   color:#FFF;
-  background-color: #8F441F; 
+  background-color: transparent; 
   font-family: 'Cantata One', serif;
   font-size: 9px;
    height: 45px;
@@ -1511,6 +1511,11 @@ margin-left: 5px;
   justify-content: center;
   align-items: center;
   letter-spacing: 2px;
+  border-top: 2px solid ;
+  border-bottom: 2px solid ;
+  border-right: 2px solid ;
+  border-left: 2px solid ;
+  border-color: #fff;
 }
 
 }
